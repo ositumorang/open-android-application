@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_add_phone_no">Add</string>
+    <string name="app_name">BlackList</string>
+<string name="menu_del_phone_no">Del</string>
+<string name="menu_edit_phone_no">Edit</string>
+<string name="menu_exit">Exit</string>
+<string name="alert_dialog_ok">ok</string>
+<string name="alert_dialog_cancel">Cancel</string>
+<string name="alert_dialog_text_entry">Please Enter Phone No</string>
+<string name="alert_dialog_username">Name</string>
+<string name="alert_dialog_phone_no">phone</string>
+<string name="alert_dialog_eidt_phone_no">Edit Phone Number</string>
+<string name="alert_dialog_delect_phone_no">Delect Phone Number</string>
+<string name="select_dialog">Menu</string>
+<string name="add_black_list">Add Black List</string>
+<string name="edit_black_list">Edit Black List</string>
+<string name="alert_dialog_warning">Warning</string>
+<string name="this_number_will_delete">This number will delete</string>
+<string name="all_number_will_delete">All number will delete</string>
+</resources>
