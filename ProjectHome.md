@@ -1,0 +1,1 @@
+Open android project for mobile application
